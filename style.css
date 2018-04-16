@@ -1,0 +1,40 @@
+body {
+    height:100vh;
+    margin:0;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    color:white;
+    background-color: darkcyan;
+    text-align: center;
+}
+
+h1 {
+    margin-top:60px;
+    color: #ffff00;
+}
+
+
+input {
+    margin:10px;
+    padding: 2px;
+    width: 25%;
+    height: 45px;
+}
+
+button {
+    width: 25%;
+    height: 50px;
+    background-color:white;
+    color: darkcyan;
+    font-weight: 900;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    border: none;
+    margin-bottom: 40px;
+}
+
+button:hover {
+    background-color: #ffff00; 
+}
+
+
